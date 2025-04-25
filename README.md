@@ -5,17 +5,12 @@
 
 _🚀 Features_
 
-1. [ ] 2-player local multiplayer (Player X vs Player O)
-2. [ ] 
-3. [ ] Timer-based turn system (30 seconds per turn)
-4. [ ] 
-5. [ ] Animated winning cells
-6. [ ] 
-7. [ ] Dynamic game restart functionality
-8. [ ] 
-9. [ ] Smooth UI transitions with animations
-10. [ ] 
-11. [ ] Responsive and modern design
+* 2-player local multiplayer (Player X vs Player O)
+* Timer-based turn system (30 seconds per turn)
+* Animated winning cells
+* Dynamic game restart functionality
+* Smooth UI transitions with animations
+* Responsive and modern design
 
 ## Demo
 
